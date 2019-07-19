@@ -7,3 +7,10 @@ Suggests: knitr, rmarkdown,remotes,CNVScopePublicData,pwr,ComplexHeatmap
 License: BSD_3_clause + file LICENSE
 MD5sum: ae0f033331b1fb54bc06ade563c266ce
 NeedsCompilation: no
+
+Package: CNVScopePublicData
+Version: 0.0.3
+Suggests: knitr, rmarkdown
+License: BSD_3_clause + file LICENSE
+MD5sum: f70e7f859d285253531a129b504a2f47
+NeedsCompilation: no
